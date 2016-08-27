@@ -1,0 +1,2 @@
+when would you want to create a remote repository rather then keeping all your work local?
+Imagine that you are a member of a team would like to share, synchronize or merge the code.
